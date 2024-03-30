@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711747948 source:c:\users\oolus\onedrive\pulpit\ucip\c++ calculator\calculator object c++\calculator object\main.cpp
+	<iostream>
+	<math.h>
+	<vector>
+
